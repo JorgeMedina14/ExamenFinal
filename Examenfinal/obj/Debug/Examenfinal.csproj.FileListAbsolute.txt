@@ -1,0 +1,48 @@
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe.config
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\bin\Debug\Examenfinal.pdb
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.cache
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.lref
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.g.resources
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.Properties.Resources.resources
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Proyecto\Final\Examen final\Examenfinal\Examenfinal\obj\Debug\Examenfinal.pdb
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe.config
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.pdb
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.cache
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.lref
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.g.resources
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.Properties.Resources.resources
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.pdb
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe.config
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\bin\Debug\Examenfinal.pdb
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.cache
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal_MarkupCompile.lref
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.g.resources
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.Properties.Resources.resources
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.exe
+C:\Users\jorge\Escritorio\Curso Progra\Examen final progra\Examenfinal\Examenfinal\obj\Debug\Examenfinal.pdb
